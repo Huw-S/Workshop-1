@@ -1,2 +1,2 @@
-# Workshop_1
+# workshop_1_project_organisation
 Workshomp wun

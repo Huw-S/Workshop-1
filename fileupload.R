@@ -1,4 +1,4 @@
-chaff <- read.table("data/chaff.txt", header=TRUE)
+chaff <- read.table("rawdata/chaff.txt", header=TRUE)
 
 #tidying data
 library(tidyverse)
